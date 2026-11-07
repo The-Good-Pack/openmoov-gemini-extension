@@ -1,0 +1,12 @@
+{
+  "name": "openmoov",
+  "version": "1.1.0",
+  "description": "Search UK homes for sale and to rent, book viewings, request valuations, and get sold prices, stamp duty, conveyancing quotes and local agents from OpenMoov.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "openmoov": {
+      "httpUrl": "https://mcp.openmoov.co.uk/",
+      "timeout": 30000
+    }
+  }
+}
